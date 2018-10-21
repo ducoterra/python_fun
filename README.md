@@ -1,2 +1,2 @@
 # python_fun
-Repo for fun python projects with no purpose
+Repo for fun python projects with no real purpose!
